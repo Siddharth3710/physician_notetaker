@@ -1,0 +1,25 @@
+Patient: Good morning, doctor. I have had a high fever for the last four days, and my whole body is aching.
+
+Doctor: Good morning! That sounds concerning. Have you checked your temperature?
+
+Patient: Yes, it was around 103°F last night. I also feel extreme tiredness and have a severe headache.
+
+Doctor: Do you have chills, sweating, or any rashes on your body?
+
+Patient: Yes, I get chills at night, and I noticed some red rashes on my arms today.
+
+Doctor: These symptoms suggest a possible viral infection like dengue or malaria. Have you recently traveled to an area where mosquito-borne diseases are common?
+
+Patient: No, but there have been a few dengue cases in my neighborhood.
+
+Doctor: That increases the risk. I will order some blood tests, including a Dengue NS1 Antigen Test and a Malaria Parasite Test, to confirm the diagnosis.
+
+Patient: Is dengue serious?
+
+Doctor: Dengue can be mild or severe. In severe cases, it can cause low platelet count, internal bleeding, and dehydration. If your platelet count drops too low, hospitalization may be needed.
+
+Patient: What should I do in the meantime?
+
+Doctor: Drink plenty of fluids like coconut water, ORS, and fresh fruit juice. Avoid aspirin, as it can increase bleeding risk. Take paracetamol for fever and get enough rest. If you notice bleeding gums, black stools, or severe abdominal pain, come to the hospital immediately.
+
+Patient: Thank you, doctor. I’ll follow your advice.
