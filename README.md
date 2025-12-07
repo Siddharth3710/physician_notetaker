@@ -49,7 +49,7 @@ Physician-Notetaker-AI/
 Setup
 -----
 1. Clone:
-   git clone https://github.com/Siddharth3710/Physician-Notetaker-AI.git
+   git clone https://github.com/Siddharth3710/physician_notetaker
    cd Physician-Notetaker-AI
 
 2. Install:
