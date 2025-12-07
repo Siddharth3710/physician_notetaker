@@ -1,0 +1,3 @@
+openai>=1.0.0
+python-dotenv
+openrouter>=0.1.0   
