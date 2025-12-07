@@ -91,3 +91,4 @@ def generate_soap_note(transcript: str):
         print("❌ JSON Parse Error (SOAP output):")
         print(cleaned)
         raise
+    return cleaned

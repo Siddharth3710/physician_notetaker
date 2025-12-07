@@ -10,7 +10,7 @@ from soap_notes import generate_soap_note
 
 
 def main():
-    transcript = load_transcript("data/sample_transcript2.txt")
+    transcript = load_transcript("data/sample_transcript1.txt")
 
     print("\nExtracting medical details...\n")
     medical = extract_medical_details(transcript)
